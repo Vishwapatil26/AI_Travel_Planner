@@ -14,6 +14,6 @@ An AI-driven travel planning application that helps users find the best travel o
 - Weather API (Live Weather Updates)
 
 Usage
-1️⃣ Enter the source, destination, and budget.
-2️⃣ Get AI-powered travel suggestions.
-3️⃣ View real-time weather updates for both cities.
+-- Enter the source, destination, and budget.
+-- Get AI-powered travel suggestions.
+-- View real-time weather updates for both cities.
