@@ -1,4 +1,4 @@
-# AI_Travel_Planner
+# AI Travel Planner
 An AI-driven travel planning application that helps users find the best travel options between two locations. The system leverages Google GenAI to generate travel recommendations (flights, trains, buses, cabs) based on user input, along with real-time weather updates.
 
 **Features**
